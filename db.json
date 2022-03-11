@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Andres",
+      "empresa": "ASUS",
+      "email": "andres@asus.com",
+      "telefono": "232893823",
+      "notas": "Cliente de empresas",
+      "id": 2
+    },
+    {
+      "nombre": "Alejandro",
+      "empresa": "MGM",
+      "email": "alejandro@mgm.com",
+      "telefono": "5348398238",
+      "notas": "",
+      "id": 4
+    },
+    {
+      "nombre": "Jorge David Davila",
+      "empresa": "JC Ideas",
+      "email": "jorge@jcideas.com",
+      "telefono": "8989898",
+      "notas": "Cliente con servicios de publicidad",
+      "id": 5
+    }
+  ]
+}
